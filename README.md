@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Currently learning some NLP, specifically text parsing, and regexp generally. Do some basic python scripting, now wrapinng my head around classes and nltk module. Below are pet projects.
 
 <!--
 **treefungus/treefungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
