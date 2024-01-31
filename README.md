@@ -1,4 +1,4 @@
-### Currently learning some NLP, specifically text parsing, regexps and chatbot flow. Falling in love with Python, now wraping my head around classes and nltk, TensorFlow and similar modules. Below are pet projects.
+### A language specialist getting into NLP.
 
 <!--
 **treefungus/treefungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
