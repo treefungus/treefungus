@@ -1,8 +1,8 @@
 ### A language specialist getting into NLP.
 
-#data #visualization #localization #NLP 
+#data #visualization #localization #natural language processing #machine learning
 
-#nltk #spacy #pandas #seaborn
+#nltk #spacy #pandas #seaborn #sklearn
 
 <!--
 **treefungus/treefungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
